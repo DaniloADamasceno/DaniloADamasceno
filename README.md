@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning Javascript, typescript e JAVA.
  <div align="center">
   <a href="https://github.com/DaniloADamasceno">  
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-<!-- Versão Compacta   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&layout=compact&langs_count=7&theme=dracula"/>-->
+   <img height="255em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
    
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/>
+<!-- Versão Compacta   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&layout=compact&langs_count=7&theme=dracula"/>  -->
+   
+   <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/>
    
 ##
    
