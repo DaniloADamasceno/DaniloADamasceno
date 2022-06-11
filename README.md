@@ -37,8 +37,8 @@
  <a href="https://www.instagram.com/damasceno.ddanilo/" target="_blank">                                               <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">                                                      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://github.com/DaniloADamasceno" alt="github" target="_blank">                                           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://api.whatsapp.com/send/?phone=61991275341&text&app_absent=0" alt="WhatsApp" target="_blank">          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>  </a> 
-
+ <!-- <a href="https://api.whatsapp.com/send/?phone=61991275341&text&app_absent=0" alt="WhatsApp" target="_blank">          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>  </a> 
+-->
   <!--   
      ![ Animação de cobra ](https://github.com/DaniloADamasceno/DaniloADamasceno/blob/output/github-contribution-grid-snake.svg)
 -->
