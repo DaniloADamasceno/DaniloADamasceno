@@ -1,6 +1,6 @@
 👋 Hi, I’m <h1>Danilo Almeida Damasceno</h1>
 - 📚 Student of Control and Automation Engineering
-- 🌱 I’m currently learning JAVA, Javascript e typescript .
+- 🌱 I’m currently learning JAVA and Javascript.
  <div align="center">
   <a href="https://github.com/DaniloADamasceno">  
    <img height="255em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
