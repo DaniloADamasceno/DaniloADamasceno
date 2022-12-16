@@ -36,18 +36,16 @@
  </div>
  
 
- <!-- Contador de Visitação -------------------------------------------------------------------------------------------->
  
+  <!-- Animação da Cobrinha com os Commits ---------------------------------------------------------------------------->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+ <!-- Contador de Visitação -------------------------------------------------------------------------------------------->
 <div align="center">
     
 ![](https://komarev.com/ghpvc/?username=DaniloADamasceno&color=006bed)
 </div>
- 
-  <!-- Animação da Cobrinha com os Commits ---------------------------------------------------------------------------->
-
-  ![ Animação de cobra ](https://github.com/DaniloADamasceno/DaniloADamasceno/blob/output/github-contribution-grid-snake.svg)
-
-
 
  
  <!--  Onde Me encontrar ---------------------------------------------------------------------------------------------->
@@ -63,20 +61,3 @@
           <a href="https://github.com/DaniloADamasceno" alt="github" target="_blank">                                           
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
-
-     
-  ![ Animação de cobra ](https://github.com/DaniloADamasceno/DaniloADamasceno/blob/output/github-contribution-grid-snake.svg)
-
-
-  
-  ![ Animação de cobra ](https://github.com/DaniloADamasceno/DaniloADamasceno/blob/output/github-contribution-grid-snake.svg)
-   
-    
-<img src="https://raw.githubusercontent.com/DaniloADamasceno/DaniloADamasceno/blob/output/snake.svg" alt="Snake animation" />
-
-
-  </div>
- <!--
-<img href="https://raw.githubusercontent.com/DaniloADamasceno/DaniloADamasceno/blob/output/snake.svg" alt="Snake animation" />
-
-  -->
