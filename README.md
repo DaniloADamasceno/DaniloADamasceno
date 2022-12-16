@@ -76,7 +76,7 @@
 <br/>
 
 <a href="https://github.com/DaniloADamasceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamascenos&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
