@@ -33,14 +33,12 @@
     <a href="https://github.com/DaniloADamasceno">  
      <img height="255em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
        <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  <!-- Snake Animação-->     
  </div>
  
 
  
-  <!-- Animação da Cobrinha com os Commits ---------------------------------------------------------------------------->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
  <!-- Contador de Visitação -------------------------------------------------------------------------------------------->
 <div align="center">
     
