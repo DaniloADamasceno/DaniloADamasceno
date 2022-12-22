@@ -7,47 +7,56 @@
  <!--  Minhas Skills ---------------------------------------------------------------------------------------------------->
  <br>
  
-  <h3> :rocket: &nbsp;Minhas Skills </h3>
+# 💻 Tech Stack:
         
-   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-    ![Liferay](https://img.shields.io/badge/-Liferay-333333?style=flat&logo=Liferay&logoColor=1572B6)
-     ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-       ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-        ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-         ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-           ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-           ![FreeMarker](https://img.shields.io/badge/-FreeMarker-333333?style=flat&logo=Freemarker)
-            ![Arduino ](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+    ![Liferay](https://img.shields.io/badge/-Liferay-333333?style=for-the-badge&logo=Liferay&logoColor=1572B6)
+     ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+       ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+        ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+         ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+          ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+           ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+            ![FreeMarker](https://img.shields.io/badge/-FreeMarker-333333?style=for-the-badge&logo=Freemarker)
+             ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
  
- **Banco de Dados**
+  # 🏦 Banco de Dados
   
-   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=PostgreSql)
-    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+   <br>
+    <br>
 
 
 <!-- Contador de Commits e porcentagem de linguagens -------------------------------------------------------------------->
- 
- <div align="center">
-    <a href="https://github.com/DaniloADamasceno">  
-     <img height="255em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-       <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/>
+ # 📊 GitHub Stats:
+
+ <div align-items: stretch>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  <!-- Snake Animação-->     
+
+![](https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloADamasceno&theme=dracula&hide_border=false)
+ 
+ <div align-items: center> 
+   <img  height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/> </div>
  </div>
  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DaniloADamasceno&theme=dracula&no-frame=false&no-bg=false&margin-w=1)
 
- 
- <!-- Contador de Visitação -------------------------------------------------------------------------------------------->
+---
+
+ <!-- Contador de Visitação  e Snake Commit-------------------------------------------------------------------------------------------->
 <div align="center">
     
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  <!-- Snake Animação-->  
 ![](https://komarev.com/ghpvc/?username=DaniloADamasceno&color=006bed)
-</div>
 
+</div>
  
  <!--  Onde Me encontrar ---------------------------------------------------------------------------------------------->
- <hr>
+
  
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
  
