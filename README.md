@@ -41,16 +41,17 @@
  <div align-items: center> 
    <img  height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/> </div>
  </div>
- 
+ <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniloADamasceno&theme=dracula&no-frame=false&no-bg=false&margin-w=1)
-
+-->
 ---
 
  <!-- Contador de Visitação  e Snake Commit-------------------------------------------------------------------------------------------->
 <div align="center">
-    
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  <!-- Snake Animação-->  
+   <!-- Snake Animação-->  
+   <!--  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+
 ![](https://komarev.com/ghpvc/?username=DaniloADamasceno&color=006bed)
 
 </div>
