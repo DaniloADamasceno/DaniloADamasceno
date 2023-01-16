@@ -62,10 +62,12 @@
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
  
  <div>
-   <a href="https://www.instagram.com/DaniloA.Damasceno/" target="_blank">                                               
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-       <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">                                                      
-         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-          <a href="https://github.com/DaniloADamasceno" alt="github" target="_blank">                                           
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danilo-almeida-damasceno-2ba6971ab/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/DaniloA.Damasceno/" target="_blank">                                               
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+          <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">                                                      
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+              <a href="https://github.com/DaniloADamasceno" alt="github" target="_blank">                                           
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
