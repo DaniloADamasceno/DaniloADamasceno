@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniloADamasceno&theme=dracula&no-frame=false&no-bg=false&margin-w=1)
 -->
----
+
 
  <!-- Contador de Visitação  e Snake Commit-------------------------------------------------------------------------------------------->
 <div align="center">
