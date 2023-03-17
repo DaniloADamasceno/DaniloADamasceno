@@ -57,11 +57,12 @@
    <!-- Snake Animação-->  
    <!--  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 
-![](https://komarev.com/ghpvc/?username=DaniloADamasceno&color=006bed)
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=DaniloADamasceno&color=006bed)
 
 </div>
  
  <!--  Onde Me encontrar ---------------------------------------------------------------------------------------------->
+
 
  
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
