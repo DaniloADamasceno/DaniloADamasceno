@@ -40,17 +40,17 @@
 <!-- Contador de Commits e porcentagem de linguagens -------------------------------------------------------------------->
  # 📊 GitHub Stats:
 
- <div align-items: stretch>
-  
-
-![](https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloADamasceno&theme=dracula&hide_border=false)
+ <div  align-items: stretch, display: grid, grid-template-columns: repeat(2, 1fr), grid-template-rows: 1fr, grid-column-gap: 0px, grid-row-gap: 10px>
+ 
+![Linguagens + usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaniloADamasceno&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+ ![Número de Commits](https://github-readme-streak-stats.herokuapp.com/?user=DaniloADamasceno&theme=dracula&hide_border=false) 
  
  <a href="http://www.github.com/DaniloADamasceno">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DaniloADamasceno&theme=dracula&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
  <div align-items: center> 
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/> </div>
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/> 
+ </div>
    
  </div>
  <!--
