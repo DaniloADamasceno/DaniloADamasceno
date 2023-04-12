@@ -49,8 +49,14 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DaniloADamasceno&theme=dracula&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
  <div align-items: center> 
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloADamasceno&langs_count=8&https://github.com/anuraghazra/github-readme-stats&theme=dracula"/> 
+     <a href="https://github.com/DaniloADamasceno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&theme=dracula&show_icons=true" />
+</a>
  </div>
+   
+   
+
+   
    
  </div>
  <!--
