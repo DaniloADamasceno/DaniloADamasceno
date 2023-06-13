@@ -8,7 +8,26 @@
  <br>
  
 # 💻 Tech Stack:
-        
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+     ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+       ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+         ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+           ![FreeMarker](https://img.shields.io/badge/-FreeMarker-333333?style=for-the-badge&logo=Freemarker)
+        </div>
+</td><td valign="top" width="33%">
+
+ ### Backend  
+<div align="center">  
+ 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
   	![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
     ![Liferay](https://img.shields.io/badge/-Liferay-125697?style=for-the-badge&logo=Liferay&logoColor=1572B6)
@@ -17,14 +36,21 @@
        ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
         ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
          ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-          ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-           ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-            ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-             ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-              ![FreeMarker](https://img.shields.io/badge/-FreeMarker-333333?style=for-the-badge&logo=Freemarker)
-               ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-                ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
- 
+         
+        
+</td><td valign="top" width="33%">
+            
+ ### Outras  
+<div align="center">        
+     
+ ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+   
+ </div>
+</td></tr></table>  
+
+<br/>  
+
   # 🏦 Banco de Dados
   
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,27 +66,32 @@
 <!-- Contador de Commits e porcentagem de linguagens -------------------------------------------------------------------->
  # 📊 GitHub Stats:
 
- <div  align-items: stretch, display: grid, grid-template-columns: repeat(2, 1fr), grid-template-rows: 1fr, grid-column-gap: 0px, grid-row-gap: 10px>
+<table><tr><td valign="top" width="33%">
+<div align="center"> 
  
-![Linguagens + usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaniloADamasceno&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+  ![Linguagens + usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaniloADamasceno&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+</div>
 
- 
- <a href="http://www.github.com/DaniloADamasceno">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DaniloADamasceno&theme=dracula&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- 
- <div align-items: center> 
- 
+</td><td valign="top" width="33%">
+
+## 🏆 GitHub Trophies
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaniloADamasceno&theme=dracula)](https://github.com/DaniloADamasceno/github-readme-activity-graph)
+
+![](https://github-profile-trophy.vercel.app/?username=DaniloADamasceno&theme=dracula&no-frame=false&no-bg=false&margin-w=1)
+
+</div>
+
+</td><td valign="top" width="33%">
+
   ![Número de Commits](https://github-readme-streak-stats.herokuapp.com/?user=DaniloADamasceno&theme=dracula&hide_border=false) 
      <a href="https://github.com/DaniloADamasceno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloADamasceno&theme=dracula&show_icons=true" />
 </a>
- </div>
-   
-   
 
-   
-   
- </div>
+</div>
+
+</td></tr></table>  
  <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DaniloADamasceno&theme=dracula&no-frame=false&no-bg=false&margin-w=1)
