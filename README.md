@@ -80,13 +80,7 @@
             ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
                  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-  <!-- <div>
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-    ![H2](https://img.shields.io/badge/-H2-125697?style=for-the-badge&logo=H2&logoColor=1572B6)
-     ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-     ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-</div> -->
+
    </br>
     </br>
 
@@ -121,17 +115,16 @@
 </div>
 
 </td></tr></table>  
- <!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DaniloADamasceno&theme=dracula&no-frame=false&no-bg=false&margin-w=1)
--->
 
-   
 
  <!-- Contador de Visitação  e Snake Commit-------------------------------------------------------------------------------------------->
 <div align="center">
    <!-- Snake Animação-->  
    <!--  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+
+   <br clear="both">
+
+<img src="https://raw.githubusercontent.com/DaniloADamasceno/DaniloADamasceno/output/snake.svg" alt="Snake animation" />
  
 ![Contador de Visualizações](https://komarev.com/ghpvc/?username=DaniloADamasceno&color=006bed)
   </div>
