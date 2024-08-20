@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Danilo Almeida Damasceno
 
 - 📚 Student of Control and Automation Engineering
-- 🌱 I’m currently learning JAVA, Kotlin, Microservices and Angular.
+- 🌱 I’m currently learning JAVA, Kotlin, Microservices, React Nstive and Angular.
 
  <!-----------------------------------------  Minhas Skills ---------------------------------->
  </br>
