@@ -2,7 +2,7 @@
 <!-----------------------------------------  Inicial / Informações --------------------------->
 # 👋 Hi, I’m Danilo Almeida Damasceno
 
-- 📚 Student of Control and Automation Engineering
+- 📚 Control and Automation Engineer
 - 🌱 I’m currently learning JAVA, Kotlin, Microservices, React Nstive and Angular.
 
  <!-----------------------------------------  Minhas Skills ---------------------------------->
